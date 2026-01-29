@@ -105,7 +105,6 @@ menu:
       name: Blog
       url: /blog/
       weight: 20
-      weight: 30
     - identifier: contact
       name: Contact
       url: /contact/
