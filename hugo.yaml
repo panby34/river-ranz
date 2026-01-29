@@ -85,7 +85,7 @@ params:
     github:
       enabled: true
       url: 'https://github.com/panby34'
-      facebook:
+    facebook:
       enabled: false
     instagram:
       enabled: false
