@@ -1,4 +1,149 @@
 baseURL: 'https://panby34.github.io/river-ranz.github.io/'
 title: River Ranz
 languageCode: en-us
+theme: stack
 DefaultContentLanguage: en
+enableEmoji: true
+enableGitInfo: false
+enableRobotsTXT: true
+canonifyURLs: false
+pagination:
+  pagerSize: 9
+darkmode_js:
+  - assets/js/darkmode.js
+enableInlineShortcodes: true
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+params:
+  author: River Ranz
+  #authorimage: ../assets/images/global/author.webp
+  #og_image: /images/tailbliss-cover.png
+  moto: "Portfolio"
+  description: "Programming and Narrative"
+  disable_theme_toggle: false
+  disable_stay_uptodate: true
+
+  p1:
+    heading: "About"
+    image: "assets/toby-placeholder.jpg"
+    content:
+      - text: "Hello! I'm River, a video game programmer and narrative specialist! I will graduate from Champlain College in 2026 with a bachelor's degree in Game Programming, with minors in Interactive Narrative, Mathematics, and Computer Science."
+      - text: "I'm passionate about video games, especially those with a strong or impactful narrative. I believe that a story can really make or break an interactive experience! I'm skilled with writing dialogue and building off of existing story elements to enhance the effect it has on players. I also have a strong interest in UI programming and data management, as well as AI behavior programming. However, I have training in a large number of programming sub-fields, and can fulfill a variety of roles within a studio environment!"
+  p2:
+    heading: "Projects"
+    image: "assets/hotc-cards.png"
+    content:
+      - type: "table"
+        columns:
+          - heading: "Programming"
+            items:
+              - "Heart of the Cards"
+              - "Nest Quest"
+          - heading: "Narrative"
+            items:
+              - "Heartbrook"
+              - "With Love"
+  p3:
+    heading: "From the blog"
+    content:
+      - text: "This is where my blog posts will go!"
+
+  social_media:
+    github:
+      enabled: true
+      url: 'https://github.com/panby34'
+    facebook:
+      enabled: false
+    instagram:
+      enabled: false
+    twitter:
+      enabled: false
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+  footer:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+
+taxonomies:
+  category: Categories
+  tag: Tags
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.148.2"
