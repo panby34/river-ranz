@@ -1,8 +1,8 @@
 ---
-title: "JavaScript Debugging Like a Pro"
-subtitle: "Essential techniques for finding and fixing bugs efficiently"
+title: "Heartbrook"
+subtitle: "A dating sim developed in a month."
 date: 2024-01-10T09:15:00Z
-tags: ["javascript", "debugging", "development", "tips"]
+tags: ["narrative", "debugging", "development", "tips"]
 mood: "Analytical"
 ---
 
