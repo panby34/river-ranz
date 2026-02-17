@@ -2,7 +2,7 @@
 title: "Heart of the Cards"
 subtitle: "A developer's guide to caffeinated productivity"
 date: 2025-011-09T16:15:00Z
-tags: ["coffee", "productivity", "lifestyle", "focus"]
+tags: ["programming", "productivity", "lifestyle", "focus"]
 mood: "Energized"
 ---
 
