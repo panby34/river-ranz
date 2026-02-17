@@ -11,7 +11,8 @@ Ever heard the phrase "bull in a china shop?" These five words were the inspirat
 
 ## Why BreakaBull?
 
-*BreakaBull* is a cozy game, but it also has a unique level of difficulty to it. Since you play as a bull, they have to do everything with their hooves. This can range from making tea and serving customers to sweeping and doing soothing chores around the tea shop. The customers are unique, too— they each have their own backstory and will talk to you about their day, their past, their hopes and dreams... every one of them is their own ~~person~~ animal.
+*BreakaBull* is a cozy game, but it also has a unique level of difficulty to it. Since you play as a bull, you have to do everything with your hooves. This can range from making tea and serving customers to sweeping and doing soothing chores around the tea shop. Seems simple enough, right? But the difficulty lies with the hooves— without the luxury of opposable thumbs, every task requires careful consideration and grace. Gameplay is focused on navigating a world that isn't built for you, but without any stressful stakes. Do your best to appease the clientele— or don't. We won't tell.
+Every day, customers will come into the tea shop. They're unique, too— each customer has their own backstory and will talk to you about their day, their past, their hopes and dreams... every one of them is their own ~~person~~ animal.
 
 ## My Contributions
 
@@ -40,3 +41,16 @@ The code above was from the initial addition of order preferences to the game. T
 In addition to being our designated narrative programmer, I also contributed to some of *BreakaBull*'s story writing as well! I mainly worked on writing both the Salamander and the Tortoise.
 
 ![Concept art of the Salamander](/images/salamander.png "Salamander concept art") ![Concept art of the Tortoise](/images/tortoise.png "Tortoise concept art")
+
+#### The Salamander
+
+When designing the Salamander's backstory, I really wanted to have him seem very carefree and silly. Their tea order is always 100% random, making the Salamander the only customer to not have any specific preference when ordering. This means he can end up with some truly horrific orders, but his laid-back nature allows him to laugh it off and drink it anyway.
+Despite the Salamander being a silly, lighthearted character on the outside, they have a lot of feelings. When I started writing his story, I knew I wanted his main arc to focus on themes of community and belonging, and his story pieced itself together from there.
+
+{{< coffee-break title="Names" >}}
+Picking names for our characters took some time— [CHOSEN NAME] could've ended up as Sammy, Finn, Monty, or Flavio instead!
+{{< /coffee-break >}}
+
+#### The Tortoise
+
+dude i lowkey haven't written her yet. she's an old lady tho
