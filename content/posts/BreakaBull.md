@@ -2,7 +2,7 @@
 title: "BreakaBull"
 subtitle: "The cozy VR game about making tea"
 date: 2026-02-16T20:30:00Z
-tags: ["VR", "Programming", "Narrative", "AI", "Unity"]
+tags: ["VR", "Programming", "Narrative", "AI", "Unity", "3D"]
 featured: true
 mood: "Cozy"
 ---
