@@ -2,7 +2,7 @@
 title: "With Love"
 subtitle: "A short visual novel with unique storytelling"
 date: 2024-04-29T10:05:00Z
-tags: ["Narrative", "visual novel", "RenPy"]
+tags: ["Narrative", "visual novel", "RenPy", "2D"]
 mood: "Contemplative"
 ---
 
