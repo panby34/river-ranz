@@ -10,6 +10,8 @@ mood: "Contemplative"
 
 ![A written postcard from the game "With Love".](/images/withLove-postcard.png "In-game postcard")
 
+{{< figure src="withLove-postcard.png" >}}
+
 ### Player Projection
 
 When I started writing the player character (PC), I knew I wanted them to be easy for a wide variety of people to project onto. To achieve this, I aimed for a characterization that was, for the most part, relatable to the general public. To achieve this, I first made sure the PC was entirely gender-neutral. There's no use of any gendered pronouns in the game, which makes their gender whatever the player decides they are. This way, players are more likely to think of the PC as the same gender as them, making the storyline feel more personalized.
