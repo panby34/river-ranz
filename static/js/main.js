@@ -959,7 +959,7 @@
           const href = link.getAttribute("href");
 
           // Skip external links, anchors, and special keys
-          if (!href || href.startsWith("http") || href.startsWith("#") || e.ctrlKey || e.metaKey) {
+          if (!href || href.startsWith("https") || href.startsWith("#") || e.ctrlKey || e.metaKey) {
             return;
           }
 
