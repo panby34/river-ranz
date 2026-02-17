@@ -6,157 +6,52 @@ tags: ["Programming", "UI", "Unity", "2D"]
 mood: "Energized"
 ---
 
-There's an unspoken bond between developers and coffee. It's more than just caffeine—it's ritual, comfort, and fuel for creativity all rolled into one steaming cup. Let's explore how to match your brew to your coding tasks for maximum productivity and enjoyment.
+*Heart of the Cards* was born from the intersection of dating sims and deckbuilders. For this 3-month project, our team worked to bring the idea to life. Unfortunately, things fell through, and in the end, the project ended up feeling incomplete.
 
-## Morning Kickstart: The Foundation Builder
+## Our Intention
 
-**Best for:** Setting up development environments, planning architecture, reviewing code
+We wanted to create something that hadn't been done before. The team was heavy on narrative specialists, and so we absolutely needed to have fun characters and an interesting story. Our game idea was formed fairly quickly, and the team was excited about the prospect of *Heart of the Cards*.
 
-### The Classic Americano
-Simple, strong, and no-nonsense—just like good code. An Americano gives you that clean caffeine hit without the complexity of milk or sugar interfering with your focus.
+## So... What Happened?
 
-**Brewing tip:** Use a 1:2 ratio of espresso to hot water. The simplicity mirrors the elegance of well-written functions.
+To make a long story short, the design scope was too much. We had only 2 designers on the team, and with all the mechanics and card types available in *Heart of the Cards*, they were stretched too thin. I joined some of the design meetings as a faux designer, but by that point in development, it was already too late. This resulted in a lot of half-baked ideas and unexplained mechanics, which made the game confusing and near impossible to understand. Additionally, because the design scope was so high, progress on programming had to be pushed back, resulting in a very intense programming crunch toward the end of the project. *Heart of the Cards* was eventually cancelled, and the team disbanded.
 
-### Cold Brew Concentrate
-For those early morning debugging sessions when you need sustained energy without the jitters.
+### What Was Learned?
 
-```javascript
-// Like cold brew, good code is patient and methodical
-function debugWithPatience(code) {
-  const issues = [];
+The main programming challenge in *Heart of the Cards* was data management. Because there are so many ways to categorize cards, we had to be careful with the way we organized them. There were a lot of things that had to be considered during development, and it was easy for wires to get crossed with all the different UI elements we were using. Additionally, because programming process was pushed back, we had to settle for functionality over organization, and as a result, the project scripts ended up messy and confusingly organized.
 
-  // Take it slow, like a good cold brew extraction
-  for (let line of code) {
-    if (hasIssue(line)) {
-      issues.push(analyzeCarefully(line));
-    }
-  }
+```csharp
+public class Card
+{
+    public string cardName = "null";
+    public string cardDescription = "";
+    public Sprite cardSprite = Resources.Load<Sprite>("Sprites/card");
+    public int actionValue;
+    public GameManager.CardTypes cardType;
+    public Sprite cardDesign;
 
-  return issues;
+    public int charmValue, cringeValue;
+    public ChillMechanic chill;
+    public BoostMechanic boost;
+    public AddActionsMechanic addActions;
+    public DrawCardMechanic drawCards;
+
+    public string questionResponse;
+    public string[] cardResponse = new string[] { "", "", "" };
+
+    public bool canBeDiscarded;
 }
 ```
 
-## Midday Focus: The Deep Work Companion
-
-**Best for:** Complex algorithms, refactoring, learning new technologies
-
-### Single-Origin Pour-Over
-When you need to dive deep into complex problems, a carefully crafted pour-over matches the attention to detail required for intricate code.
-
-The ritual of making pour-over coffee—measuring, timing, pouring—mirrors the methodical approach needed for tackling challenging programming problems.
-
-### Espresso Romano
-A shot of espresso with a twist of lemon peel. The citrus brightens your palate and mind, perfect for those "aha!" moments when solving tricky bugs.
-
-{{< coffee-break title="Coffee Break Wisdom" >}}
-The best debugging happens when you step away from the screen. Use your coffee brewing time to let your subconscious work on the problem. You'd be amazed how often the solution comes to you while waiting for the perfect extraction.
+{{< coffee-break title="Class Constructors" >}}
+When creating a custom class, you add a constructor. Constructors are an easy way to create a class object. The card class constructor has been omitted from the code snippet above to be succinct, but it was a crucial part of the game's functionality!
 {{< /coffee-break >}}
 
-## Afternoon Creativity: The Innovation Fuel
+However, I do believe I learned a lot of new skills during my time on the *Heart of the Cards* team. Being part of design meetings allowed me to learn some new game design skills, but also allowed me to work on decision-making and team management. Working with the other programmer on the team gave me the chance to practice my leadership skills, divvying up tasks and checking in periodically during development. I also acted as the sound designer, which was a new discipline for me, but I managed to edit together some free sound assets in a way that fits the game's feel decently well.
 
-**Best for:** Brainstorming features, UI/UX design, writing documentation
+### What Would I Do Differently?
 
-### Cappuccino with Art
-The creativity involved in latte art can spark creativity in your code. Plus, the milk provides sustained energy without the afternoon crash.
+If I were to do it all again, I think I would've tried to take on more of a leadership role earlier on in the project. I would've attended more of the early design meetings, gotten those mechanics ironed out, and implemented them. Organization would definitely come more into play— clean, properly named files, and more detailed comments in the code. I also think pushing for the designers to get in-engine would've helped with development, especially once the mechanics were decided on and fleshed out. Adding a real tutorial earlier in development also would've provided a lot in terms of player comprehension, something *Heart of the Cards* was sorely lacking.
 
-### Flavored Lattes
-Don't be afraid to experiment! A vanilla latte might inspire you to add that perfect touch to your user interface, while a caramel macchiato could fuel your creativity for that innovative feature.
 
-## Evening Wind-Down: The Gentle Companion
-
-**Best for:** Code reviews, documentation, planning tomorrow's tasks
-
-### Decaf Cortado
-All the ritual and comfort of coffee without keeping you up all night. Perfect for those late-evening code review sessions.
-
-### Herbal Coffee Alternatives
-Sometimes the best "coffee" for coding isn't coffee at all. Yerba mate provides gentle energy, while chicory coffee offers the ritual without the caffeine.
-
-## The Science of Coffee and Coding
-
-### Caffeine and Cognitive Function
-- **Peak alertness:** 30-60 minutes after consumption
-- **Optimal dosage:** 100-200mg (about 1-2 cups of coffee)
-- **Timing:** Avoid caffeine 6 hours before bedtime
-
-### The Pomodoro Coffee Technique
-Combine the Pomodoro Technique with strategic coffee consumption:
-
-1. **25 minutes focused coding** (sip slowly)
-2. **5-minute break** (finish your cup, stretch)
-3. **Repeat 3-4 cycles**
-4. **Longer break** (time for a fresh brew)
-
-## Coffee Shop Coding: Environment Matters
-
-### The Ambient Advantage
-Coffee shops provide the perfect level of background noise for creativity. The gentle hum of conversation and espresso machines creates what researchers call "ambient noise"—proven to enhance creative thinking.
-
-### Choosing Your Spot
-- **Near the window:** Natural light reduces eye strain
-- **Away from high-traffic areas:** Fewer distractions
-- **Close to power outlets:** Essential for long sessions
-- **Good WiFi signal:** Test before settling in
-
-## Building Your Home Coffee Station
-
-### Essential Equipment for Developers
-- **Programmable coffee maker:** Start brewing before you wake up
-- **Burr grinder:** Consistent grind for consistent code quality
-- **Scale:** Precision in coffee, precision in code
-- **Temperature-controlled kettle:** Perfect extraction every time
-
-### The Developer's Coffee Toolkit
-```bash
-# Your daily coffee script
-#!/bin/bash
-
-echo "Starting daily coffee routine..."
-
-# Check coffee bean levels
-if [ "$BEANS" -lt "50g" ]; then
-  echo "Warning: Low coffee bean levels detected!"
-  echo "Productivity may be impacted."
-fi
-
-# Grind beans
-grind_beans --setting=medium-fine --amount=20g
-
-# Heat water to optimal temperature
-heat_water --temp=205F
-
-# Brew coffee
-brew_coffee --method=pour-over --time=4min
-
-echo "Coffee ready. Initiating coding session..."
-```
-
-## Coffee Pairing with Programming Languages
-
-### JavaScript & Espresso
-Both are intense, fast-acting, and can keep you up all night if you're not careful.
-
-### Python & Pour-Over
-Clean, methodical, and emphasizes the process as much as the result.
-
-### Java & French Press
-Robust, reliable, and takes a bit longer but delivers consistent results.
-
-### Go & Cold Brew
-Efficient, smooth, and designed for sustained performance.
-
-## The Ritual of Code and Coffee
-
-There's something almost meditative about the morning ritual: grinding beans while your IDE loads, timing the pour-over while your tests run, taking that first sip as you review yesterday's commits.
-
-This ritual creates a mental bridge between the comfort of coffee and the focus needed for coding. It signals to your brain that it's time to enter that flow state where complex problems become solvable and elegant solutions emerge.
-
-## Conclusion
-
-The relationship between coffee and code is deeply personal. Some developers swear by their morning espresso ritual, others prefer the sustained energy of cold brew throughout the day. The key is finding what works for you and embracing the ritual.
-
-Remember: the best coffee for coding is the one that makes you happy and helps you write better code. Whether that's a simple black coffee or an elaborate pour-over ceremony, make it yours.
-
-Now, go forth and caffeinate responsibly! ☕️💻✨
-
-*What's your go-to coding coffee? Share your favorite brewing methods and coffee shop discoveries in the comments below!*
+While *Heart of the Cards* isn't the most impressive project I've been a part of, I'm still grateful for the experience and all I learned from it. I believe that working on this game taught me a lot and has given me more foresight for scope problems and potential crunch time. I feel more capable in my leadership abilities and teamwork skills as well. I understand how to navigate difficult situations and how to communicate better with teammates about issues that arise during development. Ultimately, *Heart of the Cards* was a helpful learning experience for me, and I'm hopeful that I will be able to use my knowledge to improve any future teams I work with.
