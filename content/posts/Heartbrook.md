@@ -1,7 +1,7 @@
 ---
 title: "Heartbrook"
 subtitle: "A dating sim developed in a month."
-date: 2024-01-10T09:15:00Z
+date: 2024-11-10T09:15:00Z
 tags: ["narrative", "debugging", "development", "tips"]
 mood: "Analytical"
 ---
