@@ -1,7 +1,7 @@
 baseURL = "https://panby34.github.io/river-ranz.github.io/"
 languageCode = "en-us"
 title = "LofiCode Hugo Theme"
-theme = "loficode"
+theme = "loficode-hugo-theme"
 
 # Enable emoji support
 enableEmoji = true
