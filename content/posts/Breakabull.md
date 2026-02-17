@@ -1,8 +1,8 @@
 ---
-title: "Building Cozy Digital Workspaces"
-subtitle: "Creating environments that spark creativity and reduce stress"
-date: 2024-01-15T14:30:00Z
-tags: ["productivity", "workspace", "design", "wellness"]
+title: "Breakabull"
+subtitle: "The VR game that "
+date: 2026-02-16T20:30:00Z
+tags: ["VR", "programming", "narrative", "AI"]
 featured: true
 mood: "Focused"
 ---
