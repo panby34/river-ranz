@@ -1,7 +1,7 @@
 ---
 title: "With Love"
 subtitle: "A short visual novel with unique storytelling"
-date: 2023-05-02T10:05:00Z
+date: 2024-04-29T10:05:00Z
 tags: ["narrative", "theme", "lofi", "cozy"]
 featured: false
 mood: "cozy"
