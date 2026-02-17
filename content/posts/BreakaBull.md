@@ -39,4 +39,4 @@ The code above was from the initial addition of order preferences to the game. T
 
 In addition to being our designated narrative programmer, I also contributed to some of *BreakaBull*'s story writing as well! I mainly worked on writing both the Salamander and the Tortoise.
 
-![Concept art of the Salamander](/images/salamander.png) ![Concept art of the Tortoise](/images/tortoise.png)
+![Concept art of the Salamander](/images/salamander.png "Salamander concept art") ![Concept art of the Tortoise](/images/tortoise.png "tortoise concept art")
