@@ -1,6 +1,0 @@
-[submodule "themes/tailbliss"]
-	path = themes/tailbliss
-	url = https://github.com/nusserstudios/tailbliss.git
-[submodule "themes/stack"]
-	path = themes/stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack.git
