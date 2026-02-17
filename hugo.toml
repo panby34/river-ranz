@@ -29,8 +29,7 @@ enableEmoji = true
   path = "page"
 
 [params]
-  description = "A cozy portfolio"
-  tagline = "Coding with coffee and lo-fi beats ☕🎵"
+  tagline = "Code, storytelling, and creativity"
 
   # Profile section
   [params.author]
