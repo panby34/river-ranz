@@ -1,7 +1,6 @@
 ---
 title: "Heart of the Cards"
 subtitle: "A dating sim with strategy"
-date: 2025-11-09T16:15:00Z
 tags: ["Programming", "UI", "Unity", "2D"]
 mood: "Energized"
 ---
