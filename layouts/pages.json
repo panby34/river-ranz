@@ -5,8 +5,8 @@
       "title" .Title
       "url" .Permalink
       "permalink" .Permalink
-      "date" (.Date.Format "2026-02-16")
-      "dateFormatted" (.Date.Format "2026.02.16")
+      "date" (.Date.Format "2006-01-02")
+      "dateFormatted" (.Date.Format "2006-01-02")
       "summary" .Summary
       "content" .Content
       "excerpt" (truncate 200 .Summary)
