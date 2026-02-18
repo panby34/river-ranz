@@ -502,7 +502,7 @@ nav {
 
 /* Main Content */
 .container {
-    max-width: 1000px;
+    max-width: 2000px;
     margin: 0 auto;
     padding: 2rem 1rem;
 }
@@ -510,11 +510,11 @@ nav {
 /* Post Layout for Wide Screens */
 .post-layout {
     display: grid;
-    grid-template-columns: 1fr 300px;
+    grid-template-columns: 1fr 500px;
     gap: 3rem;
     align-items: start;
     margin-top: 2rem;
-    max-width: 1400px;
+    max-width: 2000px;
     margin-left: auto;
     margin-right: auto;
     padding: 1rem;
@@ -522,26 +522,26 @@ nav {
 
 @media (min-width: 1200px) {
     .post-layout {
-        grid-template-columns: 1fr 320px;
+        grid-template-columns: 1fr 500px;
         gap: 4rem;
-        max-width: 1600px;
+        max-width: 2000px;
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 2024px) {
     .post-layout {
-        grid-template-columns: 1fr 280px;
+        grid-template-columns: 1fr 580px;
         gap: 2rem;
-        max-width: 1200px;
+        max-width: 2000px;
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     .post-layout {
         grid-template-columns: 1fr;
         gap: 1rem;
         margin-top: 1rem;
-        max-width: 1000px;
+        max-width: 2000px;
     }
 
     .sidebar {
