@@ -502,7 +502,7 @@ nav {
 
 /* Main Content */
 .container {
-    max-width: 10px;
+    max-width: 2000px;
     margin: 0 auto;
     padding: 2rem 1rem;
 }
@@ -528,7 +528,7 @@ nav {
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 2024px) {
     .post-layout {
         grid-template-columns: 1fr 280px;
         gap: 2rem;
@@ -536,7 +536,8 @@ nav {
     }
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {*/
+@media (max-width: 2000px) {
     .post-layout {
         grid-template-columns: 1fr;
         gap: 1rem;
