@@ -1,4 +1,4 @@
-baseURL = "http://panby34.github.io/river-ranz/"
+baseURL = "https://panby34.github.io/river-ranz/"
 languageCode = "en-us"
 title = "River Ranz"
 theme = "loficode-hugo-theme"
