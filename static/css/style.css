@@ -504,14 +504,14 @@ nav {
 .container {
     max-width: 2000px;
     margin: 0 auto;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
 }
 
 /* Post Layout for Wide Screens */
 .post-layout {
     display: grid;
     grid-template-columns: 1fr 500px;
-    gap: 3rem;
+    gap: 1rem;
     align-items: start;
     margin-top: 2rem;
     max-width: 2000px;
@@ -523,7 +523,7 @@ nav {
 @media (min-width: 1200px) {
     .post-layout {
         grid-template-columns: 1fr 500px;
-        gap: 4rem;
+        gap: 1rem;
         max-width: 2000px;
     }
 }
@@ -531,7 +531,7 @@ nav {
 @media (max-width: 2024px) {
     .post-layout {
         grid-template-columns: 1fr 580px;
-        gap: 2rem;
+        gap: 1rem;
         max-width: 2000px;
     }
 }
