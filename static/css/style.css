@@ -251,7 +251,8 @@ nav {
     box-shadow: 0 4px 15px var(--glow-color);
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {*/
+@media (max-width: 100px) {
     nav {
         grid-template-columns: 1fr auto;
         gap: 0.5rem;
