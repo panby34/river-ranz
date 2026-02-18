@@ -9,6 +9,8 @@ mood: "Cozy"
 
 Ever heard the phrase "bull in a china shop?" These five words were the inspiration behind *BreakaBull*, a VR game where you play as a bull running a tea shop.
 
+[INSERT BULL]
+
 ## Why BreakaBull?
 
 *BreakaBull* is a cozy game, but it also has a unique level of difficulty to it. Since you play as a bull, you have to do everything with your hooves. This can range from making tea and serving customers to sweeping and doing soothing chores around the tea shop. Seems simple enough, right? But the difficulty lies with the hooves— without the luxury of opposable thumbs, every task requires careful consideration and grace. Gameplay is focused on navigating a world that isn't built for you, but without any stressful stakes. Do your best to appease the clientele— or don't. We won't tell.
@@ -17,6 +19,8 @@ Every day, customers will come into the tea shop. They're unique, too— each cu
 ## My Contributions
 
 I was onboarded onto the team halfway through development. My main job was to work as the narrative programmer, designing and implementing the systems that brought our characters to life. I mainly focused on new systems for dialogue, friendship, and the social battery mechanic (which limits how many conversations you can have in a day). However, I was also in charge of adding smaller details related to characters, such as order preferences and spawning conditions.
+
+[INSERT CUSTOMER ORDERING]
 
 ### Order Preferences
 
@@ -40,7 +44,7 @@ The code above was from the initial addition of order preferences to the game. T
 
 In addition to being our designated narrative programmer, I also contributed to some of *BreakaBull*'s story writing as well! I mainly worked on writing both the Salamander and the Tortoise.
 
-![Concept art of the Salamander](/images/breakabull-salamander.png "Salamander concept art") ![Concept art of the Tortoise](/images/breakabull-tortoise.png "Tortoise concept art")
+[INSERT SALAMANDER TALKING]
 
 #### The Salamander
 
