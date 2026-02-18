@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Novel on River Ranz</title>
+    <link>http://localhost:1313/tags/visual-novel/</link>
+    <description>Recent content in Visual Novel on River Ranz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Nov 2024 09:15:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/visual-novel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heartbrook</title>
+      <link>http://localhost:1313/posts/heartbrook/</link>
+      <pubDate>Sun, 10 Nov 2024 09:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/heartbrook/</guid>
+      <description>&lt;p&gt;date my characters boy&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>With Love</title>
+      <link>http://localhost:1313/posts/withlove/</link>
+      <pubDate>Mon, 29 Apr 2024 10:05:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/withlove/</guid>
+      <description>&lt;p&gt;&lt;em&gt;With Love&lt;/em&gt; is a short visual novel developed over the course of 3 weeks. You take yourself on a solo roadtrip around New England, visiting 5 locations in any order. During these stops, there&amp;rsquo;s no dialogue or character interactions. Instead, the story unfolds through postcards you write from each location, personalized for the specific decisions you make on your trip. Each postcard has an air of sadness to it, lightly masked by humor and a lighthearted, informal writing style.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

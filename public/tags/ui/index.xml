@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI on River Ranz</title>
+    <link>http://localhost:1313/tags/ui/</link>
+    <description>Recent content in UI on River Ranz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Nov 2025 16:15:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heart of the Cards</title>
+      <link>http://localhost:1313/posts/heartofthecards/</link>
+      <pubDate>Sun, 09 Nov 2025 16:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/heartofthecards/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Heart of the Cards&lt;/em&gt; was born from the intersection of dating sims and deckbuilders. For this 3-month project, our team worked to bring the idea to life. Unfortunately, things fell through, and in the end, the project ended up feeling incomplete.&lt;/p&gt;&#xA;&lt;p&gt;[INSERT KETCHUP RESPONSE]&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-intention&#34;&gt;Our Intention&lt;/h2&gt;&#xA;&lt;p&gt;We wanted to create something that hadn&amp;rsquo;t been done before. The team was heavy on narrative specialists, and so we absolutely needed to have fun characters and an interesting story. Our game idea was formed fairly quickly, and the team was excited about the prospect of &lt;em&gt;Heart of the Cards&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

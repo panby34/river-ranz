@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en-us" data-theme="light">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+  BreakaBull - River Ranz
+</title>
+
+
+
+<meta name="description" content="Ever heard the phrase &ldquo;bull in a china shop?&rdquo; These five words were the inspiration behind BreakaBull, a VR game where you play as a bull running a …" />
+
+
+
+<meta
+  property="og:title"
+  content="BreakaBull"
+/>
+<meta
+  property="og:description"
+  content="Ever heard the phrase &ldquo;bull in a china shop?&rdquo; These five words were the inspiration behind BreakaBull, a VR game where you play as a bull running a …"
+/>
+<meta
+  property="og:type"
+  content="article"
+/>
+<meta property="og:url" content="http://localhost:1313/posts/breakabull/" />
+<meta property="og:site_name" content="River Ranz" />
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta
+  name="twitter:title"
+  content="BreakaBull"
+/>
+<meta
+  name="twitter:description"
+  content="Ever heard the phrase &ldquo;bull in a china shop?&rdquo; These five words were the inspiration behind BreakaBull, a VR game where you play as a bull running a …"
+/>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Orbitron:wght@400;700&family=JetBrains+Mono:wght@400;500&display=swap"
+  rel="stylesheet"
+/>
+
+
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
+
+<link rel="stylesheet" href="http://localhost:1313/css/style.css">
+
+
+
+</head>
+<body>
+    
+    <div class="reading-progress"></div>
+    
+
+    
+
+    <main>
+        
+
+<div class="post-overlay active">
+    <div class="post-overlay-backdrop"></div>
+    <div class="post-overlay-content" style="position: relative; min-height: 100vh; padding: 0; transform: translateY(0);">
+        <div class="post-overlay-header">
+            <div class="post-overlay-title">
+                <a href="/" class="overlay-site-title">River Ranz</a>
+            </div>
+            <button class="post-overlay-close" aria-label="Close post" onclick="window.location.href='/'">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="post-layout">
+        <article class="post-content">
+            <header class="post-header">
+                <div class="post-meta">
+                    <span class="post-date">2026.02.16</span>
+                    <div class="reading-time-post">
+                        <span class="coffee-cups">
+                            
+                            
+                            
+                            
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                            ☕☕☕
+                        </span>
+                        <span>3 min read</span>
+                    </div>
+                </div>
+                <h1 class="post-title">BreakaBull</h1>
+                
+                <p class="post-subtitle">The cozy VR game about making tea</p>
+                
+
+                
+                <div class="post-tags-header">
+                    
+                    <a href="http://localhost:1313/tags/vr" class="post-tag">VR</a>
+                    
+                    <a href="http://localhost:1313/tags/programming" class="post-tag">Programming</a>
+                    
+                    <a href="http://localhost:1313/tags/narrative" class="post-tag">Narrative</a>
+                    
+                    <a href="http://localhost:1313/tags/ai" class="post-tag">AI</a>
+                    
+                    <a href="http://localhost:1313/tags/unity" class="post-tag">Unity</a>
+                    
+                    <a href="http://localhost:1313/tags/3d" class="post-tag">3D</a>
+                    
+                </div>
+                
+            </header>
+            <div class="post-body">
+                <p>Ever heard the phrase &ldquo;bull in a china shop?&rdquo; These five words were the inspiration behind <em>BreakaBull</em>, a VR game where you play as a bull running a tea shop.</p>
+<p>[INSERT BULL]</p>
+<h2 id="why-breakabull">Why BreakaBull?</h2>
+<p><em>BreakaBull</em> is a cozy game, but it also has a unique level of difficulty to it. Since you play as a bull, you have to do everything with your hooves. This can range from making tea and serving customers to sweeping and doing soothing chores around the tea shop. Seems simple enough, right? But the difficulty lies with the hooves— without the luxury of opposable thumbs, every task requires careful consideration and grace. Gameplay is focused on navigating a world that isn&rsquo;t built for you, but without any stressful stakes. Do your best to appease the clientele— or don&rsquo;t. We won&rsquo;t tell.
+Every day, customers will come into the tea shop. They&rsquo;re unique, too— each customer has their own backstory and will talk to you about their day, their past, their hopes and dreams&hellip; every one of them is their own <del>person</del> animal.</p>
+<h2 id="my-contributions">My Contributions</h2>
+<p>I was onboarded onto the team halfway through development. My main job was to work as the narrative programmer, designing and implementing the systems that brought our characters to life. I mainly focused on new systems for dialogue, friendship, and the social battery mechanic (which limits how many conversations you can have in a day). However, I was also in charge of adding smaller details related to characters, such as order preferences and spawning conditions.</p>
+<p>[INSERT CUSTOMER ORDERING]</p>
+<h3 id="order-preferences">Order Preferences</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-csharp" data-lang="csharp"><span class="line"><span class="ln">1</span><span class="cl"><span class="k">if</span> <span class="p">(</span><span class="n">UnityEngine</span><span class="p">.</span><span class="n">Random</span><span class="p">.</span><span class="n">Range</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">1</span><span class="p">)</span> <span class="p">==</span> <span class="m">0</span><span class="p">)</span>
+</span></span><span class="line"><span class="ln">2</span><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="ln">3</span><span class="cl">        <span class="n">mOrder</span><span class="p">.</span><span class="n">type</span> <span class="p">=</span> <span class="n">TeaTypes</span><span class="p">.</span><span class="n">BlackTea</span><span class="p">;</span>
+</span></span><span class="line"><span class="ln">4</span><span class="cl">        <span class="n">mOrder</span><span class="p">.</span><span class="n">addons</span><span class="p">.</span><span class="n">Add</span><span class="p">(</span><span class="n">TeaAddons</span><span class="p">.</span><span class="n">Milk</span><span class="p">);</span>
+</span></span><span class="line"><span class="ln">5</span><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="ln">6</span><span class="cl"><span class="k">else</span> <span class="p">{</span> <span class="n">mOrder</span><span class="p">.</span><span class="n">type</span> <span class="p">=</span> <span class="n">TeaTypes</span><span class="p">.</span><span class="n">HibiscusTea</span><span class="p">;</span> <span class="p">}</span>
+</span></span><span class="line"><span class="ln">7</span><span class="cl">
+</span></span><span class="line"><span class="ln">8</span><span class="cl"><span class="n">mOrder</span><span class="p">.</span><span class="n">temp</span> <span class="p">=</span> <span class="n">TeaTemp</span><span class="p">.</span><span class="n">Hot</span><span class="p">;</span>
+</span></span><span class="line"><span class="ln">9</span><span class="cl"><span class="n">mOrder</span><span class="p">.</span><span class="n">size</span> <span class="p">=</span> <span class="n">TeaSize</span><span class="p">.</span><span class="n">Small</span><span class="p">;</span>
+</span></span></code></pre></div><div class="coffee-break">
+  <h4>Personality</h4>
+  <p>
+The code above was from the initial addition of order preferences to the game. There are only two possible options: black tea with milk or hibiscus tea. Do you know which BreakaBull customer this order belongs to?
+</p>
+</div>
+
+<h3 id="narrative">Narrative</h3>
+<p>In addition to being our designated narrative programmer, I also contributed to some of <em>BreakaBull</em>&rsquo;s story writing as well! I mainly worked on writing both the Salamander and the Tortoise.</p>
+<p>[INSERT SALAMANDER TALKING]</p>
+<h4 id="the-salamander">The Salamander</h4>
+<p>When designing the Salamander&rsquo;s backstory, I really wanted to have him seem very carefree and silly. Their tea order is always 100% random, making the Salamander the only customer to not have any specific preference when ordering. This means he can end up with some truly horrific orders, but his laid-back nature allows him to laugh it off and drink it anyway.
+Despite the Salamander being a silly, lighthearted character on the outside, they have a lot of feelings. When I started writing his story, I knew I wanted his main arc to focus on themes of community and belonging, and his story pieced itself together from there.</p>
+<div class="coffee-break">
+  <h4>Names</h4>
+  <p>
+Picking names for our characters took some time— [CHOSEN NAME] could've ended up as Sammy, Finn, Monty, or Flavio instead!
+</p>
+</div>
+
+<h4 id="the-tortoise">The Tortoise</h4>
+<p>dude i lowkey haven&rsquo;t written her yet. she&rsquo;s an old lady tho</p>
+
+            </div>
+
+            
+            
+            <div class="related-posts">
+                <h3>Related Content</h3>
+                <div class="related-grid">
+                    
+                    <div class="related-post">
+                        <h4><a href="http://localhost:1313/posts/nestquest/">Nest Quest</a></h4>
+                        <div class="related-meta">
+                            2025.04.19 •
+                            
+                            
+                            
+                            
+                            
+                            ☕☕☕ 3 min read
+                        </div>
+                    </div>
+                    
+                    <div class="related-post">
+                        <h4><a href="http://localhost:1313/posts/heartofthecards/">Heart of the Cards</a></h4>
+                        <div class="related-meta">
+                            2025.11.09 •
+                            
+                            
+                            
+                            
+                            
+                            ☕☕☕☕ 4 min read
+                        </div>
+                    </div>
+                    
+                    <div class="related-post">
+                        <h4><a href="http://localhost:1313/posts/heartbrook/">Heartbrook</a></h4>
+                        <div class="related-meta">
+                            2024.11.10 •
+                            
+                            
+                            
+                            
+                            
+                            ☕ 1 min read
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            
+
+            
+            <nav class="post-navigation">
+                
+                <div class="nav-previous">
+                    <span class="nav-label">← Previous</span>
+                    <a href="http://localhost:1313/posts/heartofthecards/" class="nav-title">Heart of the Cards</a>
+                </div>
+                
+
+                
+                <div></div>
+                
+            </nav>
+        </article>
+
+        <aside class="sidebar">
+            <nav class="toc">
+                <h4>Contents</h4>
+                <div id="toc-content">
+                    
+                </div>
+            </nav>
+        </aside>
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    
+
+    <script src="http://localhost:1313/js/main.js"></script>
+</body>
+</html>

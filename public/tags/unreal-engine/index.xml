@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal Engine on River Ranz</title>
+    <link>http://localhost:1313/tags/unreal-engine/</link>
+    <description>Recent content in Unreal Engine on River Ranz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Apr 2025 18:45:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unreal-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nest Quest</title>
+      <link>http://localhost:1313/posts/nestquest/</link>
+      <pubDate>Sat, 19 Apr 2025 18:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nestquest/</guid>
+      <description>&lt;p&gt;If there&amp;rsquo;s one thing the &lt;em&gt;Nest Quest&lt;/em&gt; team loved, it was ducks. We knew from the start that our game needed to involve them in some way, and it didn&amp;rsquo;t take long after that for our concept to come together. We decided to aim for something both children and adults could enjoy, with bright colors, cute sounds, and adorable mechanics. And with that, &lt;em&gt;Nest Quest&lt;/em&gt; was born.&lt;/p&gt;&#xA;&lt;p&gt;[INSERT NEST]&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;&#xA;&lt;p&gt;As one of two programmers for &lt;em&gt;Nest Quest&lt;/em&gt;, I worked on a number of mechanics for the game. I implemented design ideas, tested them, and fixed bugs as they arose. We only had 3 months to complete this project, and thus it was important to focus on functionality and appearances to give the illusion of what the player expects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

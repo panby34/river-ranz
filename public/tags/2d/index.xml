@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D on River Ranz</title>
+    <link>http://localhost:1313/tags/2d/</link>
+    <description>Recent content in 2D on River Ranz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Nov 2025 16:15:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heart of the Cards</title>
+      <link>http://localhost:1313/posts/heartofthecards/</link>
+      <pubDate>Sun, 09 Nov 2025 16:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/heartofthecards/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Heart of the Cards&lt;/em&gt; was born from the intersection of dating sims and deckbuilders. For this 3-month project, our team worked to bring the idea to life. Unfortunately, things fell through, and in the end, the project ended up feeling incomplete.&lt;/p&gt;&#xA;&lt;p&gt;[INSERT KETCHUP RESPONSE]&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-intention&#34;&gt;Our Intention&lt;/h2&gt;&#xA;&lt;p&gt;We wanted to create something that hadn&amp;rsquo;t been done before. The team was heavy on narrative specialists, and so we absolutely needed to have fun characters and an interesting story. Our game idea was formed fairly quickly, and the team was excited about the prospect of &lt;em&gt;Heart of the Cards&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heartbrook</title>
+      <link>http://localhost:1313/posts/heartbrook/</link>
+      <pubDate>Sun, 10 Nov 2024 09:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/heartbrook/</guid>
+      <description>&lt;p&gt;date my characters boy&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>With Love</title>
+      <link>http://localhost:1313/posts/withlove/</link>
+      <pubDate>Mon, 29 Apr 2024 10:05:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/withlove/</guid>
+      <description>&lt;p&gt;&lt;em&gt;With Love&lt;/em&gt; is a short visual novel developed over the course of 3 weeks. You take yourself on a solo roadtrip around New England, visiting 5 locations in any order. During these stops, there&amp;rsquo;s no dialogue or character interactions. Instead, the story unfolds through postcards you write from each location, personalized for the specific decisions you make on your trip. Each postcard has an air of sadness to it, lightly masked by humor and a lighthearted, informal writing style.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
