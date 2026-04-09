@@ -42,19 +42,23 @@ The code above was from the initial addition of order preferences to the game. T
 
 ### Narrative
 
-In addition to being our designated narrative programmer, I also contributed to some of *BreakaBull*'s story writing as well! I mainly worked on writing both the Salamander and the Tortoise.
+In addition to being our designated narrative programmer, I also contributed to some of *BreakaBull*'s story writing as well! I mainly worked on writing the Salamander, the Deer, and the Tortoise.
 
 [INSERT SALAMANDER TALKING]
 
 #### The Salamander
 
-When designing the Salamander's backstory, I really wanted to have him seem very carefree and silly. Their tea order is always 100% random, making the Salamander the only customer to not have any specific preference when ordering. This means he can end up with some truly horrific orders, but his laid-back nature allows him to laugh it off and drink it anyway.
-Despite the Salamander being a silly, lighthearted character on the outside, they have a lot of feelings. When I started writing his story, I knew I wanted his main arc to focus on themes of community and belonging, and his story pieced itself together from there.
+When designing the Salamander's backstory, I really wanted to have him seem very carefree and silly. Sammy the salamander's tea order is always 100% random, making them the only customer to not have any specific preference when ordering. This means he can end up with some truly horrific orders, but his laid-back nature allows him to laugh it off and drink it anyway.
+Despite Sammy being a silly, lighthearted character on the outside, they have a lot of feelings. When I started writing his story, I knew I wanted his main arc to focus on themes of community and belonging, and his story pieced itself together from there.
 
 {{< coffee-break title="Names" >}}
-Picking names for our characters took some time— [CHOSEN NAME] could've ended up as Sammy, Finn, Monty, or Flavio instead!
+Picking names for our characters took some time— Sammy could've ended up as Finn, Monty, or Flavio instead!
 {{< /coffee-break >}}
+
+#### The Deer
+
+The Deer was one of the original four customers, created before I was onboarded onto the team. He was described as "creepy" and "unsettling," so I took that and rolled with it. Duncan the deer ended up becoming a robotic, yet lovable character. When you first encounter him, he's quiet, and talking with him can feel a bit awkward. After getting to know him, however, he likes to talk about his interests and what's going on in his life.
 
 #### The Tortoise
 
-dude i lowkey haven't written her yet. she's an old lady tho
+Edith the tortoise was easy to characterize— she's an old lady who wants to talk about her grandchildren.
