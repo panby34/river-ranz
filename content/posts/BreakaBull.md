@@ -9,7 +9,7 @@ mood: "Cozy"
 
 Ever heard the phrase "bull in a china shop?" These five words were the inspiration behind *BreakaBull*, a VR game where you play as a bull running a tea shop.
 
-<img src="content/posts/images/breakabull-main.png" alt="Promotional splash screen"></a>
+<img src="images/breakabull-main.png" alt="Promotional splash screen"></a>
 
 ## Why BreakaBull?
 
