@@ -1,7 +1,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>
-  {{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.tagline }}{{ end }}
+  {{ .Site.Title }} - {{ .Site.Params.tagline }}{{ end }}
 </title>
 
 <!-- Meta Description -->
@@ -16,7 +16,7 @@
 <!-- Open Graph -->
 <meta
   property="og:title"
-  content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}"
+  content="{{ .Site.Title }}{{ end }}"
 />
 <meta
   property="og:description"
