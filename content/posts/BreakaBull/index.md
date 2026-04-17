@@ -20,8 +20,6 @@ Every day, customers will come into the tea shop. They're unique, too— each cu
 
 I was onboarded onto the team halfway through development. My main job was to work as the narrative programmer, designing and implementing the systems that brought our characters to life. I mainly focused on new systems for dialogue, friendship, and the social battery mechanic (which limits how many conversations you can have in a day). However, I was also in charge of adding smaller details related to characters, such as order preferences and spawning conditions.
 
-[INSERT CUSTOMER ORDERING]
-
 ### Order Preferences
 
 ```csharp
@@ -61,4 +59,4 @@ The Deer was one of the original four customers, created before I was onboarded 
 
 #### The Tortoise
 
-Edith the tortoise was easy to characterize— she's an old lady who wants to talk about her grandchildren.
+Edith the tortoise was easy to characterize— she's an old lady who wants to talk about her grandchildren. Her character came together quickly from there, and soon enough, Edith had a whole family.
