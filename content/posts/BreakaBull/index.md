@@ -44,7 +44,7 @@ The code above was from the initial addition of order preferences to the game. T
 
 In addition to being our designated narrative programmer, I also contributed to some of *BreakaBull*'s story writing as well! I mainly worked on writing the Salamander, the Deer, and the Tortoise.
 
-[INSERT SALAMANDER TALKING]
+![Sammy the salamander](sammyGIF.gif)
 
 #### The Salamander
 
