@@ -52,7 +52,7 @@ canonifyURLs = true
 # Main navigation menu
 [[menu.main]]
   name = "About"
-  url = "/about/"
+  url = "/river-ranz/about/"
   weight = 10
 
 [[menu.main]]
