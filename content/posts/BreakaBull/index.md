@@ -9,7 +9,7 @@ mood: "Cozy"
 
 Ever heard the phrase "bull in a china shop?" These five words were the inspiration behind *BreakaBull*, a VR game where you play as a bull running a tea shop.
 
-![Promotional splash screen](breakabull-main.png)
+![Promotional splash screen](breakabull-main.png){: width="50%" }
 
 ## Why BreakaBull?
 
@@ -42,7 +42,7 @@ The code above was from the initial addition of order preferences to the game. T
 
 In addition to being our designated narrative programmer, I also contributed to some of *BreakaBull*'s story writing as well! I mainly worked on writing the Salamander, the Deer, and the Tortoise.
 
-![Sammy the salamander](sammyGIF.gif)
+![Sammy the salamander](sammyGIF.gif){: width="50%" }
 
 #### The Salamander
 
