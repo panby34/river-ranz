@@ -57,7 +57,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "Contact"
-  url = "/contact/"
+  url = "/river-ranz/contact/"
   weight = 20
 
 # Markup configuration for syntax highlighting
