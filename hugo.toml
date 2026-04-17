@@ -73,6 +73,8 @@ canonifyURLs = true
       wrapStandAloneImageWithinParagraph = false
       [markup.goldmark.parser.attribute]
         block = true
+    [markup.goldmark.renderHooks.image]
+      enableDefault = true
 
 # Taxonomies
 [taxonomies]
