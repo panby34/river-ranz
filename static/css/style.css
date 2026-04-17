@@ -47,7 +47,6 @@
         --code-bg: rgba(0, 0, 0, 0.8);
         --code-border: rgba(0, 255, 255, 0.2);
         --code-text: #f8f8f2;
-        --link: rgba(0, 255, 255, 0.4);
 
         /* Button gradients for dark */
         --btn-gradient: linear-gradient(135deg, #FF0080 0%, #FF6B35 100%);
@@ -127,6 +126,10 @@ body {
     min-height: 100vh;
     transition: all 0.3s ease;
     padding-bottom: 80px;
+}
+
+a {
+  color: #FF0080;
 }
 
 /* Ensure consistent background for all page types */
