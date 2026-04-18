@@ -59,4 +59,9 @@ The Deer was one of the original four customers, created before I was onboarded 
 
 #### The Tortoise
 
-Edith the tortoise was easy to characterize— she's an old lady who wants to talk about her grandchildren. Her character came together quickly from there, and soon enough, Edith had a whole family.
+Edith the tortoise was easy to characterize— she's an old lady who wants to talk about her grandchildren. Her character came together quickly from there, and soon enough, Edith had a whole family. She loves to tell the player all about her grandbabies and what they've been up to. Edith the tortoise loves a cozy, decorated store, and will frequently compliment the player on their decor as well!
+
+
+*BreakaBull* can be found on Steam and itch.io!
+Steam- https://store.steampowered.com/app/4453020/BreakaBull/
+itch- https://maddilovessmiles.itch.io/breakabull
