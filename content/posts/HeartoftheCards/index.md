@@ -67,3 +67,5 @@ If I were to do it all again, I think I would've tried to take on more of a lead
 
 
 While *Heart of the Cards* isn't the most impressive project I've been a part of, I'm still grateful for the experience and all I learned from it. I believe that working on this game taught me a lot and has given me more foresight for scope problems and potential crunch time. I feel more capable in my leadership abilities and teamwork skills as well. I understand how to navigate difficult situations and how to communicate better with teammates about issues that arise during development. Ultimately, *Heart of the Cards* was a helpful learning experience for me, and I'm hopeful that I will be able to use my knowledge to improve any future teams I work with.
+
+*Heart of the Cards* can be found on my itch.io! https://across-violet-skies.itch.io/heart-of-the-cards
