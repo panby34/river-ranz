@@ -31,3 +31,5 @@ One of the things we knew we wanted was a gaggle of little ducklings to follow t
 - **Gravity**. The player can glide in the air using their wings. The ducklings don't have that same ability, but we don't want to leave them behind! I ended up turning off the gravity on ducklings, which allows them to follow smoothly behind the player, no matter how high up they may be. This also causes the issue of ducklings floating slightly above the ground, which unfortunately was unable to be patched out before the deadline.
 
 [INSERT DUCKLING GLIDE GIF]
+
+*Nest Quest* can be found on itch.io! https://maddilovessmiles.itch.io/nest-quest
