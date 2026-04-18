@@ -63,5 +63,7 @@ Edith the tortoise was easy to characterize— she's an old lady who wants to ta
 
 
 *BreakaBull* can be found on Steam and itch.io!
+
 Steam- https://store.steampowered.com/app/4453020/BreakaBull/
+
 itch- https://maddilovessmiles.itch.io/breakabull
