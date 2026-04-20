@@ -18,16 +18,21 @@ Every day, customers will come into the tea shop. They're unique, too— each cu
 
 ## My Contributions
 
-I was onboarded onto the team halfway through development. My main job was to work as the narrative programmer, designing and implementing the systems that brought our characters to life. I mainly focused on new systems for dialogue, friendship, and the social battery mechanic (which limits how many conversations you can have in a day). However, I was also in charge of adding smaller details related to characters, such as order preferences and spawning conditions.
+I was onboarded onto the team halfway through development. My main job was to work as the narrative programmer, designing and implementing the systems that brought our characters to life. I mainly focused on new systems for dialogue, friendship, and the bagged tea tutorial. However, I was also in charge of adding smaller details related to characters, such as order preferences and spawning conditions.
 
 ### Order Preferences
 
 ```csharp
-if (UnityEngine.Random.Range(0, 1) == 0)
-    {
+int rand = UnityEngine.Random.Range(0, 3)
+if (rand == 0)
+{
         mOrder.type = TeaTypes.BlackTea;
         mOrder.addons.Add(TeaAddons.Milk);
-    }
+}
+else if (rand == 1)
+{
+    mOrder.type = TeaTypes.GreenTea;
+}
 else { mOrder.type = TeaTypes.HibiscusTea; }
 
 mOrder.temp = TeaTemp.Hot;
@@ -35,7 +40,7 @@ mOrder.size = TeaSize.Small;
 ```
 
 {{< coffee-break title="Personality" >}}
-The code above was from the initial addition of order preferences to the game. There are only two possible options: black tea with milk or hibiscus tea. Since then, we've added 5 new types of tea!
+The code above was from the initial addition of order preferences to the game. There are only three possible options: black tea with milk, green tea, or hibiscus tea. Since then, we've added 5 new types of tea!
 {{< /coffee-break >}}
 
 ### Narrative
