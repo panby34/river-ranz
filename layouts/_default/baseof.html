@@ -15,10 +15,6 @@
     <main>
         {{ block "main" . }}{{ end }}
     </main>
-
-    {{ if not (eq .Type "posts") }}
-    {{ partial "ambient-bar.html" . }}
-    {{ end }}
     
     <script type="text/javascript" src="https://panby34.github.io/river-ranz/js/main.js"></script>
     <!--<script src="{{ "js/main.js" | absLangURL }}"></script>-->
