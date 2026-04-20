@@ -24,4 +24,7 @@ Because I was the only writer and designer on *Heartbrook*, I only had enough ti
 
 While *Heartbrook* is currently a full game, it could benefit from more content. I have plans to add more characters and endings eventually. This project is on the back burner for now, unfortunately, but I do want to add more to it someday. I have 2 new character designs planned for the next update already!
 
+---
+
+
 *Heartbrook* can be found on my itch.io! https://across-violet-skies.itch.io/heartbrook
