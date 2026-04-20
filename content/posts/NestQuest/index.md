@@ -32,4 +32,7 @@ One of the things we knew we wanted was a gaggle of little ducklings to follow t
 
 ![Image of the ducklings in midair](nestQuest-ducklings.png)
 
+---
+
+
 *Nest Quest* can be found on itch.io! https://maddilovessmiles.itch.io/nest-quest
