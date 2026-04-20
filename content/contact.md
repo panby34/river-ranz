@@ -7,5 +7,6 @@ date: 2026-02-13T21:20:00Z
 
 - Email: river.ranz26@gmail.com
 - LinkedIn: https://www.linkedin.com/in/river-ranz
+- itch.io: https://across-violet-skies.itch.io/
 
 ---
