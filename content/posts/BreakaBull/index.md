@@ -39,7 +39,7 @@ mOrder.temp = TeaTemp.Hot;
 mOrder.size = TeaSize.Small;
 ```
 
-{{< coffee-break title="Personality" >}}
+{{< coffee-break title="Tea Orders" >}}
 The code above was from the initial addition of order preferences to the game. There are only three possible options: black tea with milk, green tea, or hibiscus tea. Since then, we've added 5 new types of tea!
 {{< /coffee-break >}}
 
