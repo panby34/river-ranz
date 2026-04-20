@@ -27,7 +27,6 @@ int rand = UnityEngine.Random.Range(0, 3)
 if (rand == 0)
 {
         mOrder.type = TeaTypes.BlackTea;
-        mOrder.addons.Add(TeaAddons.Milk);
 }
 else if (rand == 1)
 {
@@ -40,7 +39,7 @@ mOrder.size = TeaSize.Small;
 ```
 
 {{< coffee-break title="Tea Orders" >}}
-The code above was from the initial addition of order preferences to the game. There are only three possible options: black tea with milk, green tea, or hibiscus tea. Since then, we've added 5 new types of tea!
+The code above was from the initial addition of order preferences to the game. There were only three possible options: black tea, green tea, or hibiscus tea. Since then, we've added 5 new types of tea!
 {{< /coffee-break >}}
 
 ### Narrative
