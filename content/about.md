@@ -12,3 +12,5 @@ I have an interest in game AI, especially NPC behaviors. I really enjoy GOAP as 
 Outside of work, I love to play video games (of course), write, and be creative! I play guitar and crochet little plushies sometimes, and I love to try new hobbies when I get the chance. My favorite video games are *Final Fantasy VII Rebirth*, *The Legend of Zelda: Breath of the Wild*, *Elden Ring*, and *Stardew Valley*, but I'm always happy to try new games, especially from small developers <3
 
 ---
+
+{{< embed-pdf url="/pdfs/RiverRanzResume.pdf" >}}
