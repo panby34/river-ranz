@@ -8,7 +8,7 @@ mood: "Hopeful"
 
 If there's one thing the *Nest Quest* team loved, it was ducks. We knew from the start that our game needed to involve them in some way, and it didn't take long after that for our concept to come together. We decided to aim for something both children and adults could enjoy, with bright colors, cute sounds, and adorable mechanics. And with that, *Nest Quest* was born.
 
-![Image of the complete nest](nestQuest-nest.png)
+![Image of the nest around mid to late game](nestQuest-nest.png)
 
 ## My Role
 
