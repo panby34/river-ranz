@@ -99,17 +99,17 @@
 
   <div class="posts-list" id="posts-container">
     {{ $posts := where .Site.RegularPages "Section" "eq" "posts" }} {{
-    $postsPerPage := 3 }} {{ range first $postsPerPage $posts }} {{ partial
+    $postsPerPage := 5 }} {{ range first $postsPerPage $posts }} {{ partial
     "post-list-item.html" . }} {{ end }}
   </div>
 
   {{ $posts := where .Site.RegularPages "Section" "eq" "posts" }} {{ if gt (len
-  $posts) 3 }}
+  $posts) 5 }}
   <div class="load-more-section">
     <button
       id="load-more-btn"
       class="load-more-btn"
-      data-loaded="3"
+      data-loaded="5"
       data-total="{{ len $posts }}"
     >
       <span class="load-more-text">Load More Posts</span>
