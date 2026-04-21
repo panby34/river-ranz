@@ -3,7 +3,7 @@ title: "Heartbrook"
 subtitle: "A dating sim developed in a month."
 date: 2024-11-10T09:15:00Z
 tags: ["Narrative", "visual novel", "RenPy", "2D"]
-mood: "Analytical"
+mood: "Passionate"
 ---
 
 *Heartbrook* is a short dating sim developed in just under a month. It offers 3 unique characters, each with different stories and various endings. As the player, you make choices and talk to these characters, eventually ending in a date with one of them (if you're lucky)! This was a project I was excited to work on since dialogue is one of my narrative specialties.
