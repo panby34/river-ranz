@@ -3,7 +3,7 @@ title: "Heart of the Cards"
 subtitle: "A dating sim with strategy"
 date: 2025-11-09T16:15:00Z
 tags: ["Programming", "UI", "Unity", "2D"]
-mood: "Energized"
+mood: "Analytical"
 ---
 
 *Heart of the Cards* was born from the intersection of dating sims and deckbuilders. For this 3-month project, our team worked to bring the idea to life. Unfortunately, things fell through, and in the end, the project ended up feeling incomplete. We had plans to have 3 characters for our alpha build, but we ended up with only one.
@@ -16,7 +16,7 @@ We wanted to create something that hadn't been done before. The team was heavy o
 
 ## My Role
 
-While I never had the official title of lead programmer, I ended up filling that role for the entire length of the project. I handled task distribution for our programming team and answered questions while also working on the project. I handled the majority of our UI, and *Heart of the Cards* is a very UI-heavy game.
+While I never had the official title of lead programmer, I ended up filling that role for the entire length of the project. I handled task distribution for our programming team and answered questions from other disciplines while also working on the project. I handled the majority of our UI, and *Heart of the Cards* is a very UI-heavy game.
 
 ![Image of the UI layout for the date portion of the game, cards omitted](hotc-ui.png)
 
