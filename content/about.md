@@ -13,4 +13,6 @@ Outside of work, I love to play video games (of course), write, and be creative!
 
 ---
 
+Take a look at my resume! Available below for .pdf viewing or download.
+
 {{< embed-pdf url="/pdfs/RiverRanzResume.pdf" >}}
