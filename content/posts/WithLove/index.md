@@ -6,7 +6,7 @@ tags: ["Narrative", "visual novel", "RenPy", "2D"]
 mood: "Contemplative"
 ---
 
-*With Love* is a short visual novel developed over the course of 3 weeks. You take yourself on a solo roadtrip around New England, visiting 5 locations in any order. During these stops, there's no dialogue or character interactions. Instead, the story unfolds through postcards you write from each location, personalized for the specific decisions you make on your trip. Each postcard has an air of sadness to it, lightly masked by humor and a lighthearted, informal writing style.
+*With Love* is a short visual novel developed over the course of 3 weeks. You take yourself on a solo roadtrip around either New England or New York state, visiting 5 locations in any order. During these stops, there's no dialogue or character interactions. Instead, the story unfolds through postcards you write from each location, personalized for the specific decisions you make on your trip. Each postcard has an air of sadness to it, lightly masked by humor and a lighthearted, informal writing style.
 
 ![Image of an in-game postcard](withLove-postcard.png)
 
@@ -19,3 +19,8 @@ Now, gender isn't the only thing that makes a character feel relatable. Behavior
 ![Player narration, affected by a previous choice](withLove-sunglasses.gif)
 
 Last, but certainly not least, is name customization. When starting the game, players can put in any name of their choice. Of course, not every player is going to input their actual name, but the hope is that players who do use their name, or at least something they identify with, will find it satisfying to have each postcard signed by them. Custom names are a really simple way to add that extra touch of personalization to a game, and that was crucial for *With Love*.
+
+---
+
+
+*With Love* can be found on itch.io! https://across-violet-skies.itch.io/with-love
